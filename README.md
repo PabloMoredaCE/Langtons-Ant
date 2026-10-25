@@ -53,6 +53,8 @@ Example `sample_input.txt`:
 
 Meaning: grid 100×100, ant at (50,50) facing Up (`2`), and three black cells at (10,10), (11,10), (12,10).
 
-## Contact
+## Author
 
-If you find issues or want improvements, open an issue or contact me at pablomoredavegace (GitHub).
+Pablo Moreda Vega
+
+Computer Engineering student at Universidad de La Laguna.
